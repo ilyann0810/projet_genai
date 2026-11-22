@@ -4,7 +4,8 @@ Projet du cours *Generative AI for Computer Vision* (énoncé : `IA_Gen_project-
 
 ## Partie 1 — DCGAN sur Quick Draw (moutons)
 
-Notebook : `partie1_dcgan.ipynb`
+Notebook : `partie1_dcgan.ipynb` (exécuté, avec toutes les sorties)  
+Rapport : `rapport_partie1_dcgan.docx`
 
 - `modules/` : classes `DCGAN`, `WGANGP` et `ImagesCallback` fournies.
 - Les données (`QuickDraw/origine/sheep.npy`, 126 121 dessins 28×28) sont téléchargées automatiquement par le notebook si elles sont absentes.
