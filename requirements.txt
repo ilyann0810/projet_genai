@@ -1,0 +1,5 @@
+tensorflow
+fidle
+scikit-image
+matplotlib
+numpy
